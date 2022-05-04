@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.913f6b47.css",
+    "main.js": "/static/js/main.9fa619be.js",
+    "static/media/Wooks.png": "/static/media/Wooks.710e6f6536d77faf4d46.png",
+    "static/media/Nft.png": "/static/media/Nft.a955bf58caeb9fc2c071.png",
+    "static/media/Mallang.png": "/static/media/Mallang.99215c896ace38c1e20d.png",
+    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/Haemin.jpg": "/static/media/Haemin.555e67432a8e3e10273d.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Daitzo.png": "/static/media/Daitzo.3f9e39b61abc7563b7ba.png",
+    "static/media/Logo.png": "/static/media/Logo.8908674bd98dcf13c35e.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.913f6b47.css.map": "/static/css/main.913f6b47.css.map",
+    "main.9fa619be.js.map": "/static/js/main.9fa619be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913f6b47.css",
+    "static/js/main.9fa619be.js"
+  ]
+}
